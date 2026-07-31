@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "dev": "nodemon --import ./src/instrumentation.js src/index.js"
+    "dev": "nodemon --import ./src/instrumentation.js src/index.js",
+    "script": "node src/index.js"
   },
   "keywords": [],
   "author": "",
